@@ -1,6 +1,8 @@
 # Engineer, Builder, Extreme Learner.
 
-I'm a Telecommunications Engineer (ECE equivalent). For love, I spent a few years in Mexico running a business outside of tech. Now, I'm returning to my core passion: software engineering.
+I'm a Telecommunications Engineer (ECE equivalent). For love, I spent a few years in Mexico running a business outside of tech. While I designed our internal tools as a solo dev, I missed the rigor and scale of a professional engineering team.
+
+Now, I'm returning to my core passion: software engineering. 
 
 To re-enter the field and master the modern software landscape, I've dedicated the last three months to a deep dive into first principles. My approach was simple: **instead of just learning frameworks, I rebuilt them from the ground up.**
 
