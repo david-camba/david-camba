@@ -1,4 +1,4 @@
-# Engineer, Builder, Extreme Learner.
+# Engineer, Builder, Extreme Learner
 
 I'm a Telecommunications Engineer (ECE equivalent). For love, I spent a few years in Mexico running a business outside of tech. While I designed our internal tools as a solo dev, I missed the rigor and scale of a professional engineering team.
 
