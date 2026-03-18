@@ -1,16 +1,21 @@
-## Hi there 👋
+# Software Engineer | Backend & Systems 
+`Python` `FastAPI` `Django` `PHP` `Laravel` 
+`TypeScript` `React` 
+`LangGraph`
 
-<!--
-**david-camba/david-camba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Production & Open Software
+*   **[Incoming] NotAGame - Cloud Gaming Engine**
+    A cloud infrastructure project optimizing I/O and compute to reduce GCP gaming costs by ~90%. By decoupling the OS from the user state via ephemeral spot instances, I engineered a concurrent sync pipeline offloading compression to the GPU (CUDA) and CPU. It saturates network/disk I/O at >1.4 GB/s. Currently building the serverless control plane.
+    
+*   **[SafecurityAI](https://github.com/david-camba/safecurityAI) - AI Threat Detector**
+    A forensic platform built around LangGraph for multi-agent orchestration. Uses an async backend to stream analysis via WebSockets to a React UI for human-in-the-loop intervention. Validated with Pytest, Vitest, and Playwright.
 
-Here are some ideas to get you started:
+### 🏛️ Systems & Fundamentals Deconstruction
+> *"What I cannot create, I do not understand." — Richard Feynman*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **[nTier](https://github.com/david-camba/nTier)**: A hybrid-layer MVC backend framework built to internalize Dependency Injection and routing mechanics without relying on external magic.
+*   **[LifeTree](https://github.com/david-camba/LifeTree)**: A declarative JavaScript UI framework written from scratch to explore state management, reactivity, and Virtual DOM syncing.
+*   **[JSEngine-Simulator](https://github.com/david-camba/JSEngine-Simulator)**: A C++ simulation of a JS runtime (Heap, Stack, Event Loop) to understand runtime mechanics and how promises actually execute under the hood.
+*   **[Kafky](https://github.com/david-camba/kafky-event-driven-chat)**: A distributed systems POC in Node.js simulating a Kafka/RabbitMQ broker to observe asynchronous microservice flows, Event Sourcing, and CQRS patterns.
+
+📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/david-camba)
