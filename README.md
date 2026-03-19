@@ -13,7 +13,7 @@
 ### 🏛️ Systems & Fundamentals Deconstruction
 > *"What I cannot create, I do not understand." — Richard Feynman*
 
-*   **[nTier](https://github.com/david-camba/nTier)**: A hybrid-layer MVC backend framework built to internalize Dependency Injection and routing mechanics without relying on external magic.
+*   **[nTier](https://github.com/david-camba/nTier)**: A hybrid-layer MVC backend framework built to internalize Dependency Injection, routing mechanics, middlewares and ORM mechanics.
 *   **[LifeTree](https://github.com/david-camba/LifeTree)**: A declarative JavaScript UI framework written from scratch to explore state management, reactivity, and Virtual DOM syncing.
 *   **[JSEngine-Simulator](https://github.com/david-camba/JSEngine-Simulator)**: A C++ simulation of a JS runtime (Heap, Stack, Event Loop) to understand runtime mechanics and how promises actually execute under the hood.
 *   **[Kafky](https://github.com/david-camba/kafky-event-driven-chat)**: A distributed systems POC in Node.js simulating a Kafka/RabbitMQ broker to observe asynchronous microservice flows, Event Sourcing, and CQRS patterns.
