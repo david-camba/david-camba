@@ -3,7 +3,7 @@
 `TypeScript` `React` 
 `LangGraph`
 
-### ⚡ Production & Open Software
+### ⚡ Open Software
 *   **[Incoming] NotAGame - Cloud Gaming Engine**
     A cloud infrastructure project optimizing I/O and compute to reduce GCP gaming costs by ~90%. By decoupling the OS from the user state via ephemeral spot instances, I engineered a concurrent sync pipeline offloading compression to the GPU (CUDA) and CPU. It saturates network/disk I/O at >1.4 GB/s. Currently building the serverless control plane.
     
