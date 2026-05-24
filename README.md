@@ -1,7 +1,8 @@
 # Software Engineer | Backend & Systems 
-`Python` `FastAPI` `Django` `PHP` `Laravel` 
-`TypeScript` `React` 
-`LangGraph`
+`Python` `Node.js` `TypeScript` 
+`FastAPI` `Django` 
+`Kafka` `RabbitMQ`
+`LangGraph` `React`
 
 ### ⚡ Open Software
 *   **[Incoming] NotAGame - Cloud Gaming Engine**
@@ -16,9 +17,8 @@
 ### 🏛️ Systems & Fundamentals Deconstruction
 > *"What I cannot create, I do not understand." — Richard Feynman*
 
-*   **[nTier](https://github.com/david-camba/nTier)**: A hybrid-layer MVC backend framework built to internalize Dependency Injection, routing mechanics, middlewares and ORM mechanics.
-*   **[LifeTree](https://github.com/david-camba/LifeTree)**: A declarative JavaScript UI framework written from scratch to explore state management, reactivity, and Virtual DOM syncing.
-*   **[JSEngine-Simulator](https://github.com/david-camba/JSEngine-Simulator)**: A C++ simulation of a JS runtime (Heap, Stack, Event Loop) to understand runtime mechanics and how promises actually execute under the hood.
-*   **[Kafky](https://github.com/david-camba/kafky-event-driven-chat)**: A distributed systems POC in Node.js simulating a Kafka/RabbitMQ broker to observe asynchronous microservice flows, Event Sourcing, and CQRS patterns.
+*   **[nTier](https://github.com/david-camba/nTier)**: A hybrid-layer backend framework engineered for multi-tenant and multi-role ecosystems. It features a custom Dependency Injection Container with implicit autoloading, an Active Record-style ORM, and dynamic layer resolution (vertical for multi-brand inheritance, horizontal for RBAC), built from scratch to enforce a strict MVCS architecture.
+*   **[LifeTree](https://github.com/david-camba/LifeTree)**: A declarative, zero-build-step JavaScript UI framework. Engineered with a JIT dependency compiler, a keyed reconciliation algorithm, and an asynchronous rendering scheduler. It solves complex state management and UI composition natively.
+*   **[JSEngine-Simulator](https://github.com/david-camba/JSEngine-Simulator)**: A low-level C++ implementation of a JavaScript runtime environment.
 
 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/david-camba)
