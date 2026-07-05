@@ -1,12 +1,15 @@
 # Software Engineer | Backend & Systems 
 `Python` `Node.js` `TypeScript` 
-`FastAPI` `Django` 
+`FastAPI` `Django` `Flask`
 `Kafka` `RabbitMQ`
 `LangGraph` `React`
 
-### ⚡ Open Software
+### ⚡ Software
 *   **[Incoming] NotAGame - Cloud Gaming Engine**
 <br>A cloud infrastructure project optimizing I/O and compute to reduce GCP gaming costs by ~90%. By decoupling the OS from the user state via ephemeral spot instances, I engineered a concurrent sync pipeline offloading compression to the GPU (CUDA) and CPU. It saturates network/disk I/O at >1.4 GB/s. Currently building the serverless control plane.
+
+*   **[Workflow Engine](https://github.com/david-camba/workflow-engine) - High-Concurrency Orchestrator**
+<br>A domain-agnostic event-driven architecture bridging high-concurrency external traffic with heavy asynchronous tasks. Built a graph-based declarative state machine (FastAPI, Kafka, PostgreSQL) coordinating the full data lifecycle, from stateless API entry points to a ClickHouse zero-ETL streaming pipeline. Originally designed to manage multi-stage biometric AI analysis.
 
 *   **[SpeechFree](https://github.com/david-camba/SpeechFree) - Global AI Dictation & Local Microservices**
 <br>Bridges OS shortcuts with ChatGPT's free Whisper model via DOM scraping and clipboard hijacking to provide premium dictation system-wide. Engineered using a "local microservices" architecture connecting isolated Chrome environments with a Python native host. To manage backend routing, I built **LocalAPI**, a custom FastAPI-inspired framework operating over standard I/O (Native Messaging) and integrated with a local-first React UI.
